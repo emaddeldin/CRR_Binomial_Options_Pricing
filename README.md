@@ -1,4 +1,4 @@
-# Cox, Ross and Rubinstein Binomial Method for Options Pricing
+# High Performance CRR Options Pricing Engine 💲
 ## How to run project
 ### 1. Setup Environment 
 - go to main directory 
